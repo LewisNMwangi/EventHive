@@ -1,4 +1,4 @@
-# Event Hive - Community Events Management System Front-end
+# Event Hive
  ## By Patricia Teye and Lewis Mwangi 
 ## Screenshots
  ![image](./src/images/home.png)
