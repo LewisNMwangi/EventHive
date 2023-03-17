@@ -22,7 +22,7 @@ As a user of the website,you will be able to :
 1. Log in to the Website using google OAuth to allow access
 2. Scan through the new Events to see a brief overview of each individual event and add show interest by adding them to favorites
 3. Create new events on the site after logging in and leverage the platform to gain attendees 
-[Go Back to the top](#community-events-management-system-front-end)
+[Go Back to the top](#EventHive)
 
  ###  Requirements
  * Access to  a computer or any other gadget
@@ -34,7 +34,7 @@ As a user of the website,you will be able to :
 * Unzip the downloaded files in a folder of choice.
 * Open the index file from the zipped file with any browser.
  ****
-[Go Back to the top](#community-events-management-system-front-end)
+[Go Back to the top](#EventHive)
 
 ### Live Link 
 - Click this link to view the live application https://community-events-management-system-front-murpynzcv-brooksd.vercel.app/
