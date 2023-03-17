@@ -1,6 +1,6 @@
 .header {
-  background-color: seagreen;
-  color: #cbe368;
+  background-color: rgb(51, 45, 137);
+  color: #3998bd;
   display: flex;
   align-items: center;
   justify-content: space-between;
