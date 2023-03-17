@@ -15,7 +15,7 @@
  ## Description
  <p>This project is a simple responsive fullstack website that leverages the local api made using Ruby Sinatra that is publicly available for use</p>
 
- [Go Back to the top](#Event Hive - Community Events Management System Front-end)
+ [Go Back to the top](#EventHive)
 
  ## Features
 As a user of the website,you will be able to :
