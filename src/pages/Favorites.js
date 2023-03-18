@@ -7,7 +7,7 @@ const FavoriteMeetUps = () => {
 
   return (
     <section>
-      <h1>Favorite Meetups</h1>
+      <h1>Favorite Events</h1>
       <MeetUpList meetups={getFavoriteMeetups()} />
     </section>
   );
