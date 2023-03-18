@@ -37,7 +37,7 @@ As a user of the website,you will be able to :
 [Go Back to the top](#EventHive)
 
 ### Live Link 
-- Click this link to view the live application https://community-events-management-system-front-murpynzcv-brooksd.vercel.app/
+- Click this link to view the live application https://event-hive.vercel.app/
 ### Technology  Used
 * HTML - The Markup language was used in building the base structure of the webpage.
 * CSS - which was used to style the HTML structure to achieve the visual result with a big emphasis on { display:flex; }.
