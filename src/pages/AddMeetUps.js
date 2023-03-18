@@ -10,7 +10,7 @@ const AddMeetUps = () => {
 
   return (
     <section>
-      <h1>Add Meetups</h1>
+      <h1>Add Event</h1>
       {!useServerData && <NewMeetupForm onAddMeetup={addNewMeetup} />}
       {useServerData &&
         (Object.keys(user).length ? (
